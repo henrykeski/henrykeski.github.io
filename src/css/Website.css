@@ -177,26 +177,26 @@ body{
 }
 
 #project3{
-    background-image:url("Threads_Project.png");
+    background-image:url("../Threads_Project.png");
     background-size:cover;
 }
 #project1{
-    background-image:url("Circles_Project.png");
+    background-image:url("../Circles_Project.png");
     background-size:cover;
 }
 #project4{
-    background-image:url("StateSpace_Project.png");
+    background-image:url("../StateSpace_Project.png");
     background-size:cover;
 }
 #project2{
-    background-image:url("C++_Project.png");
+    background-image:url("../C++_Project.png");
     background-size:cover;
 }
 
 #photo{
     width: 170px;
     height: 190px;
-    background-image:url("Self_portrait.jpg");
+    background-image:url("../Self_portrait.jpg");
     background-size:cover;
     float: right;
     margin: auto 10px;
@@ -221,23 +221,23 @@ body{
 }
 
 #bigthread{
-    background-image:url("Threads_Project.png");
+    background-image:url("../Threads_Project.png");
     margin: 0 auto;
 
 }
 
 #bigC{
-    background-image:url("C++_Project.png");
+    background-image:url("../C++_Project.png");
     margin: 0 auto;
 }
 
 #bigCircle{
-    background-image:url("Circles_Project.png");
+    background-image:url("../Circles_Project.png");
     margin: 0 auto;
 }
 
 #bigSpace{
-    background-image:url("StateSpace_Project.png");
+    background-image:url("../StateSpace_Project.png");
     margin: 0 auto;
 }
 
